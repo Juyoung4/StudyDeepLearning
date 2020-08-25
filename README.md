@@ -3,3 +3,4 @@
 👉 [Dnn_spiral_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_spiral_classification_gradienttape.ipynb)<br>
 👉 [Dnn_sine_regression](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_sine_regression_keras.ipynb)<br>
 👉 [Dnn_spiral_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_spiral_classification_keras.ipynb)<br>
+👉 [Dnn_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_fashionmnist_classification.ipynb)
