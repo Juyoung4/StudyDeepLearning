@@ -5,3 +5,4 @@
 👉 [Dnn_spiral_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_spiral_classification_keras.ipynb)<br>
 👉 [Dnn_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_fashionmnist_classification.ipynb) <br>
 👉 [Dnn_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_fashionmnist_classification_tensorboard.ipynb)
+👉 [Dnn_fuelefficiency_regression](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_fuelefficiency_regression.ipynb)
