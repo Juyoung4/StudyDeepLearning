@@ -9,3 +9,5 @@
 👉 [Dnn_california_housingprice_regression](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Dnn_california_housingprice_regression.ipynb)<br>
 👉 [Cnn_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Cnn_fashionmnist_classification.ipynb)<br>
 👉 [Cnn_cifar10_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Cnn_cifar10_classification.ipynb)<br>
+👉 [Resnet_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Resnet_fashionmnist_classification.ipynb) <br>
+
