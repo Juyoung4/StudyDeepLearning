@@ -11,4 +11,6 @@
 👉 [Cnn_cifar10_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Cnn_cifar10_classification.ipynb)<br>
 👉 [Vggnet_cifar10_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Vggnet_cifar10_classification.ipynb)<br>
 👉 [Resnet_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Resnet_fashionmnist_classification.ipynb) <br>
+👉 [Rnn_GRU_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Rnn_GRU_fashionmnist_classification.ipynb)<br>
+👉 [Rnn_LSTM_fashionmnist_classification](https://github.com/Juyoung4/StudyDeepLearning/blob/master/Rnn_LSTM_fashionmnist_classification.ipynb)<br>
 
