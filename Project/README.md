@@ -1,8 +1,7 @@
 ## Naver 영화 리뷰 감성 분석
 ---------------------------------
-### [1] 데이터 전처리
 
-#### [(1) 띄어쓰기]
+#### [띄어쓰기] + [Keras Tokenizer]
 
 🤜 [CODE1](https://github.com/Juyoung4/StudyDeepLearning/tree/master/Project/Naver_review_predict.ipynb)
 
@@ -14,3 +13,13 @@
 
 
 #### [(2) 띄어쓰기 + 스펠링 체크]
+
+
+
+------------------------------------------
+
+## Naver 영화 리뷰 키워드 추출
+
+🤜 [CODE2](https://github.com/Juyoung4/StudyDeepLearning/tree/master/Project/Keyword_extraction/movie_review_keyword_ay.ipynb)
+
+
